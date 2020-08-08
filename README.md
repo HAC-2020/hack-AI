@@ -92,4 +92,4 @@ It is a software that can take feed from existing cameras and show the results.
 
 ## :clap: VideoLink as a sample output for social distancing system
 
-[Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)
+[![Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)]
