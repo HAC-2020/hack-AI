@@ -90,6 +90,26 @@ It is a software that can take feed from existing CCTV/IP cameras and show the r
 
 It is a software that can take feed from existing cameras and show the results.
 
-## :clap: VideoLink as a sample output for social distancing system
+![Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)
 
-[![Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)]
+<h2 align="center">AI Based Fever Detection</h2>
+
+<div align= "center">
+  <h4>This snippet of software will aim at detecting the people who have high body temperatures.</h4>
+</div>
+
+## :innocent: Motivation
+
+✔ We have considered the Human Face as Region of Interest to calculate the thermal temperature<br />
+
+✔ Our system will couple AI Based ROI Detection + Temperature Calculation in ROI<br />
+
+✔ Things to look for: If a person carries coffee or any hot food item, it won’t be considered for temperature calculation. <br />
+
+✔ Our software detects red eyes and raises alert for probability of person being infected.<br />
+
+## :key: How to install
+
+It is a software that can take feed from thermal cameras and show the results.
+
+![Fever Detection](https://static.wixstatic.com/media/c44162_6566a080bbd744b7ba547864b9a4d0c8~mv2.jpg/v1/fill/w_799,h_579,al_c,lg_1,q_85/Fever%20Screening_JPG.webp)
