@@ -1,4 +1,4 @@
-<h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE</h1>
+<h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE - Team Hack AI</h1>
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
@@ -73,3 +73,23 @@ It is a software that can take feed from existing CCTV/IP cameras and show the r
 ✔ Can be used at Railway Stations<br />
 ✔ Can be used at Crowded Areas<br />
 ✔ Can be used at Market Places and Malls<br />
+
+<h2 align="center">AI Based Redness of Eye Detection</h2>
+
+<div align= "center">
+  <h4>This snippet of software will aim at detecting the people who are having conjunctivitis in their eyes</h4>
+</div>
+
+## :innocent: Motivation
+
+✔ Conjunctivitis(Red Eye) is considered as the symptom of Covid19 as per the guidelines of World Health Organization.
+.<br />
+✔ Our software detects red eyes and raises alert for probability of person being infected.<br />
+
+## :key: How to install
+
+It is a software that can take feed from existing cameras and show the results.
+
+## :clap: VideoLink as a sample output for social distancing system
+
+[Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)
