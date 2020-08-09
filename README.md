@@ -13,7 +13,7 @@
 </div>
 
 ✔WHO advises to wear mask and prevent touching Nose, Face and Eyes.<br />
-✔There is no vaccine till now, and wearing masks is one of the only way to get rid of this virus.<br />
+✔There is no vaccine tillf now, and wearing masks is one of the only way to get rid of this virus.<br />
 ✔Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.<br />
 
 ## :star: Unique Selling Point (Mask Detection System)
